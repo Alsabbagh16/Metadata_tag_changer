@@ -1,0 +1,58 @@
+{
+  "name": "Ava Brown",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "2.png",
+  "external_url": "",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "11"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Blue Stripped Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Beeds Neckless "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aggresive"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Hippster Round Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Messy Pomp"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

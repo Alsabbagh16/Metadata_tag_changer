@@ -1,0 +1,54 @@
+{
+  "name": "Logan Davis",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "3.png",
+  "external_url": "",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "3"
+    },
+    {
+      "trait_type": "SkinMonke",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "Monkey Clothing",
+      "value": "White Shirt Sweater Scarf"
+    },
+    {
+      "trait_type": "Monkey Accessories",
+      "value": "None "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3rd Eye"
+    },
+    {
+      "trait_type": "Monkey Head",
+      "value": "Texture Fade"
+    },
+    {
+      "trait_type": "Monkey Mouth",
+      "value": "Banana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

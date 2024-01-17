@@ -1,0 +1,58 @@
+{
+  "name": "Sophia Moore",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "6.png",
+  "external_url": "",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tan "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Fallen Leaf"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Ear Ring "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3rd Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Braids"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

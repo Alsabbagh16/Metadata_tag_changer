@@ -1,0 +1,58 @@
+{
+  "name": "Ethan Johnson",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "10.png",
+  "external_url": "",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "11"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Sunset "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Fallen Leaf"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flamingo Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue and White Backward Cap"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "10.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

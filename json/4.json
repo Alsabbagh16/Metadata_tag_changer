@@ -1,0 +1,58 @@
+{
+  "name": "Isabella Miller",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "4.png",
+  "external_url": "",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "5"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pale "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Hollywood"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Black Turtle Neck Puffer Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Surfer"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+# NFT Metadata Name Replacer
+
+## Overview
+
+This Python script is designed to replace the "name" field in JSON metadata files associated with NFTs. It reads new names from a text file and updates each corresponding JSON file with the new name. You can also change any tag you'd like such as (Description, Url, Symbol, etc..) The following json files is structured for the Solana Blockchain.
+
+## Usage
+
+ **Installation:**
+   - Ensure that Python is installed on your system.
+   - Run Python main.py
+
+## Version 1.0.0
+
+Made by Palm Island (Buddie.sol)

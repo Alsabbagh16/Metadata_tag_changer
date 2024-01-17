@@ -1,0 +1,58 @@
+{
+  "name": "Jackson Thomas",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "9.png",
+  "external_url": "",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "11"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pale "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Spirit"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Designer Ripped Tee"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dirty Goatee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Designer Bucket Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

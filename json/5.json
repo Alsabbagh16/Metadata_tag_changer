@@ -1,0 +1,58 @@
+{
+  "name": "Mason Wilson",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "5.png",
+  "external_url": "",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "8"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tan "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Fallen Leaf"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Kings Robe"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Ear Ring "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

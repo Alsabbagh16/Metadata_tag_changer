@@ -1,0 +1,58 @@
+{
+  "name": "Olivia Smith",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "1.png",
+  "external_url": "",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "6"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pale "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Resurrection"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pink Confetti Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Proud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pop out eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Side Parted"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

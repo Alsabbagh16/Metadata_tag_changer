@@ -1,0 +1,58 @@
+{
+  "name": "Mia Anderson",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "8.png",
+  "external_url": "",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "8"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Hollywood"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Navy Leaves Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sigma"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}

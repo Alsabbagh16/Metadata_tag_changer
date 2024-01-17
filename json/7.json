@@ -1,0 +1,58 @@
+{
+  "name": "Elijah Taylor",
+  "symbol": "IBC",
+  "description": "Island Beach Club serves as a digital representation of yourself and your presence in the diverse world of Palm Island.",
+  "seller_fee_basis_points": 500,
+  "image": "7.png",
+  "external_url": "",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "9"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tan "
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Nirvana"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Palm Island Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dirty Goatee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tweaking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Pomp"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}
